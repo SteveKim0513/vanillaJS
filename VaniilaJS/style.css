@@ -1,0 +1,27 @@
+/*
+PART1, 2
+*/
+body {
+    background-color: peru;
+}
+
+h1 {
+    color: white;
+}
+
+
+/*
+PART3. doing actions at each file(CSS, HTML, JS)
+*/
+
+body {
+    background-color: peru;
+}
+
+h1 {
+    color: white;
+}
+
+.clicked {
+    color: black;
+}

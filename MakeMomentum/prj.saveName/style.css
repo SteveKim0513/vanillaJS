@@ -1,0 +1,12 @@
+.form,
+greeting {
+  display: none;
+}
+
+.btn {
+  display: none;
+}
+
+.showing {
+  display: inline;
+}
